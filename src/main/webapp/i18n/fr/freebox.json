@@ -1,0 +1,9 @@
+{
+  "freebox": {
+    "title": "Freebox",
+    "app_id": "Application id",
+    "app_name": "Application name",
+    "app_version": "Version",
+    "device_name": "Nom peripherique"
+  }
+}
